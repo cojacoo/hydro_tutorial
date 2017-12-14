@@ -12,7 +12,7 @@ This notebook gives examples to derive rating curves to relate observed discharg
 
 The second tutorial evaluates subbasins based on flow duration curves (FDC) as rank statistics of discharge behaviour. The FDCs are used to estimate the suitability of river supplied water usage. Moreover, one storm event in the Attert is analysed for runoff concentration and runoff coefficient.
 
-## 4 Event Mitigation and a Linear Store Model
+## 4a Event Mitigation and 4b First Simple Hydrological Models
 
 This tutorial illustrates the estimation of a seepage body to mitigate flooding in case of extreme rainfall events. Moreover, a first simple linear store model is presented.
 
